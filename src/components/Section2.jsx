@@ -3,7 +3,7 @@ export default function Section2() {
     return (
         <section className="w-full md:h-[500px] h-full bg-zinc-900 flex md:flex-row flex-col items-center justify-center">
             <div className="md:w-[600px] md:h-[500px] w-full h-[300px] "> 
-                <img src="/src/assets/img/6.png" alt="red-shoes" className="object-cover w-full h-full" />
+                <img src={enam} alt="red-shoes" className="object-cover w-full h-full" />
             </div>
             <div className="md:w-1/2 w-full md:p-0 p-5 text-center font-redHatDisplay text-white">
                 <h1 className="font-bold text-4xl capitalize pb-5">Jack Grealish x Nike</h1>
