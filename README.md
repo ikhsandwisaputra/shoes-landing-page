@@ -1,6 +1,6 @@
-# Bali Web Landing Page
+# Shoes Web Landing Page
 
-Welcome to the Bali Web Landing Page project! This project is a modern and responsive landing page showcasing the beauty of Bali. Built using Vite.js, React, and Tailwind CSS, this web page is designed to provide a delightful user experience.
+Welcome to the Shoes Web Landing Page project! This project is a simple yet elegant landing page showcasing a collection of stylish shoes. Built using Vite.js, React, and Tailwind CSS, this web page is designed to provide a seamless and visually appealing experience for users.
 
 ## Getting Started
 
@@ -15,7 +15,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/bali-web.git
+   git clone https://github.com/your-username/shoes-web.git
    ```
 
    Replace `your-username` with your GitHub username.
@@ -23,7 +23,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 2. Navigate to the project directory:
 
    ```bash
-   cd bali-web
+   cd shoes-web
    ```
 
 3. Install dependencies:
@@ -95,6 +95,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for exploring the Bali Web Landing Page project! If you have any questions or suggestions, please feel free to reach out.
+Thank you for exploring the Shoes Web Landing Page project! If you have any questions or suggestions, please feel free to reach out.
 
-Happy coding! 🌴✨
+Happy coding! 👟✨
